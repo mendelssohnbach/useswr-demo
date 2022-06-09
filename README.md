@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## 参照 URL
+
+[データ取得のための React Hooks ライブラリ「SWR」を Next.js で試してみた](https://dev.classmethod.jp/articles/getting-started-swr-with-nextjs/)
+
 ## Getting Started
 
 First, run the development server:
